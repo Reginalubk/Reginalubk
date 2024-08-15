@@ -3,8 +3,8 @@
 <h3 align="center">Python Developer</h3>
 <h3 align="left">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/HTML/CSS/Linux</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginalubk)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginalubk)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginalubk)
 
 <h3 align="left">Contact me:</h3>
